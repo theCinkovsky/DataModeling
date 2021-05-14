@@ -4,7 +4,7 @@ Few projecs carried out for the purposes of university course.
 ## Description
 Sample modeling & identification projects made in 2020.
 
-### RNG
+### SawtoothRNG
 Simple code generating <b>uniformly distributed pseudo-random numbers</b>. The repeatability of generator allows you to reproduce numbers many times for any test purposes. Generator is based on a sawtooth transformation and compared with built-in NumPy solution.
 
 ### Inverse transform sampling
